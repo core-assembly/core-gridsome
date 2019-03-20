@@ -1,0 +1,20 @@
+{
+  "name": "core-assembly-site",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "browserslist": [
+    "last 4 versions",
+    "ie 11"
+  ],
+  "dependencies": {
+    "gridsome": "^0.5.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.1.0",
+    "tailwindcss": "^0.7.4"
+  }
+}
