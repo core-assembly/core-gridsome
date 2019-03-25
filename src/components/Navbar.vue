@@ -4,7 +4,7 @@
       <div class="font-sans antialiased" id="app">
         <nav class="nav flex items-center justify-between flex-wrap bg-blue p-3">
           <g-link to="/" class="nav__link no-underline flex items-center flex-no-shrink text-white mr-6">
-            <g-image alt="CORE Logo" src="~/assets/CORE-trans.png" width="135" />
+            <g-image alt="CORE Logo" src="~/assets/CORE-Assembly.svg" width="135" />
             <span class="font-semibold text-xl tracking-tight ml-1">Assembly</span>
           </g-link>
           <div class="block sm:hidden mt-2">
@@ -28,14 +28,6 @@
     <slot/>
   </div>
 </template>
-
-<static-query>
-query {
-  metaData {
-    siteName
-  }
-}
-</static-query>
 
 <style src="~/assets/css/main.css"></style>
 

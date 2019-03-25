@@ -1,9 +1,10 @@
 <template>
-  <div class="layout">
-    <Navbar />
-    <slot/>
+<div class="layout">
+  <Navbar />
+  <div class="z-0" id="bg-div"></div>
+    <slot />
     <Footer />
-  </div>
+</div>
 </template>
 
 <static-query>
@@ -14,8 +15,6 @@ query {
 }
 </static-query>
 
-<style src="~/assets/css/main.css"></style>
-
 <script>
 import Navbar from '~/components/Navbar.vue'
 import Footer from '~/components/Footer.vue'
@@ -24,9 +23,9 @@ export default {
   components: {
     Navbar,
     Footer
-  },
-  metaInfo: {
-    title: 'About us'
   }
 }
 </script>
+
+<style src="~/assets/css/main.css">
+</style>
