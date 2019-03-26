@@ -1,6 +1,6 @@
 <template>
 <Layout>
-  <div class="bg-card m-4 mx-auto max-w-sm shadow-lg rounded-lg overflow-hidden">
+  <div class="bg-card m-4 mx-auto max-w-sm shadow-lg rounded-lg">
     <div class="p-4 text-center sm:flex-grow">
       <div class="m-4">
         <h1 class="text-xl">About CORE Assembly</h1>

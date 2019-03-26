@@ -1,10 +1,10 @@
 <template>
   <div class="navbar">
-    <header class="header">
+    <header class="header fixed pin-x pin-t">
       <div class="font-sans antialiased" id="app">
-        <nav class="nav flex items-center justify-between flex-wrap bg-blue p-3">
+        <nav class="nav flex items-center justify-between flex-wrap bg-blue p-2">
           <g-link to="/" class="nav__link no-underline flex items-center flex-no-shrink text-white mr-6">
-            <g-image alt="CORE Logo" src="~/assets/CORE-Assembly.svg" width="135" />
+            <g-image alt="CORE Logo" src="~/assets/CORE-Assembly.svg" width="110" />
             <span class="font-semibold text-xl tracking-tight ml-1">Assembly</span>
           </g-link>
           <div class="block sm:hidden mt-2">

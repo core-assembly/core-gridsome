@@ -1,11 +1,10 @@
 <template>
-<div class="layout">
-  <div class="h-screen" id="bg-div">
-    <Navbar />
-      <slot />
-    <Footer />
+<div>
+  <Navbar />
+  <div class="bg-div flex flex-col justify-center bg-transparent">
+    <slot />
   </div>
-</div>
+  <Footer />
 </div>
 </template>
 
