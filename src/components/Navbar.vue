@@ -17,6 +17,9 @@
               <g-link to="/About" class="nav__link no-underline block mt-4 sm:inline-block sm:mt-0 text-blue-lighter hover:text-white mr-4">
                 About
               </g-link>
+              <g-link to="/Services" class="nav__link no-underline block mt-4 sm:inline-block sm:mt-0 text-blue-lighter hover:text-white mr-4">
+                Services
+              </g-link>
             </div>
             <div>
               <g-link to="/Contact" class="nav__link md:visible no-underline inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-blue hover:bg-white mt-4 sm:mt-0">Contact Us</g-link>

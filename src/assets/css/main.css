@@ -21,3 +21,7 @@
   background-size: cover;
   background-image: url("../../assets/CORE-background.png");
 }
+
+.bg-card{
+  background-color: rgba(255, 255, 255, 0.90);
+}

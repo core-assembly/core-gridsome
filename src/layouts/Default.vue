@@ -1,9 +1,11 @@
 <template>
 <div class="layout">
-  <Navbar />
-  <div class="z-0" id="bg-div"></div>
-    <slot />
+  <div class="h-screen" id="bg-div">
+    <Navbar />
+      <slot />
     <Footer />
+  </div>
+</div>
 </div>
 </template>
 
