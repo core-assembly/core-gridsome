@@ -5,7 +5,7 @@
         <div class="m-4">
           <h1 class="text-xl">Contact CORE Assembly</h1>
           <p class="pt-4 text-xm leading-tight text-grey-darker">
-            Email us at <a href="mailto:hello@coreassemlby.com">hello@coreassemlby.com</a>
+            Email us at <a href="mailto:hello@coreassembly.com" target="_blank">hello@coreassembly.com</a>
           </p>
         </div>
       </div>
