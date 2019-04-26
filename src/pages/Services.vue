@@ -8,7 +8,7 @@
 
     <div class="flex flex-wrap justify-around">
       <div class="flex-grow text-grey-darker text-center bg-grey-light px-4 py-2 m-2 shadow-lg rounded-lg">
-        <h3>Marketing and Promotion</h3>
+        <h3 class="pb-4">Marketing and Promotion</h3>
         <ul>
           <li>Strategic Marketing Plan</li>
           <li>Pitch Decks</li>
@@ -20,17 +20,7 @@
       </div>
 
       <div class="flex-grow text-grey-darker text-center bg-grey-light px-4 py-2 m-2 shadow-lg rounded-lg">
-        <h3>Community Management</h3>
-        <ul>
-          <li>Brand Ambassador</li>
-          <li>Developer Evangelism</li>
-          <li>Documentation Review and Generation</li>
-          <li>Workshop Development &amp; facilitation</li>
-        </ul>
-      </div>
-
-      <div class="flex-grow text-grey-darker text-center bg-grey-light px-4 py-2 m-2 shadow-lg rounded-lg">
-        <h3>Blockchain Integrations</h3>
+        <h3 class="pb-4">Blockchain Integrations</h3>
         <ul>
           <li>Blockchain Education&nbsp;</li>
           <li>Discovery Sessions</li>
@@ -44,6 +34,16 @@
           <li>Distributed Systems Design</li>
           <li>Code Review &amp; Security Audits</li>
           <li>Compliance Reviews &amp; Recomendations</li>
+        </ul>
+      </div>
+
+      <div class="flex-grow text-grey-darker text-center bg-grey-light px-4 py-2 m-2 shadow-lg rounded-lg">
+        <h3 class="pb-4">Community Management</h3>
+        <ul>
+          <li>Brand Ambassador</li>
+          <li>Developer Evangelism</li>
+          <li>Documentation Review and Generation</li>
+          <li>Workshop Development &amp; facilitation</li>
         </ul>
       </div>
     </div>
