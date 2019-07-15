@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nukemandan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://coreassembly.com
+  * I am nukemandan (https://keybase.io/nukemandan) on keybase.
+  * I have a public key ASDCZPIgx2eT5oVUCDbirnRuxEVNg1X3j6MB6ov86OOeWQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012072608308f3bac66232e5c9f9948c78f9078d54ba0b4fa0d23cb33274fea46feb0a",
+      "host": "keybase.io",
+      "kid": "0120c264f220c76793e685540836e2ae746ec4454d8355f78fa301ea8bfce8e39e590a",
+      "uid": "4db1f291c81d3c578b705660a8b11f19",
+      "username": "nukemandan"
+    },
+    "merkle_root": {
+      "ctime": 1563162923,
+      "hash": "809b79e2b81dab65b4dbd1bee68807023008aa115be1ba7b0297978ff2bacb913291de33461ab411785eddd533a69718a71f31c149199ee7cf02f0e50b5020fc",
+      "hash_meta": "63d64116b2a27621ab685ee62e3531b2b9a6956d8b7f392b844afba6b5125278",
+      "seqno": 5762944
+    },
+    "service": {
+      "entropy": "2lFf2a93/oYtoDYnsWUYf7xo",
+      "hostname": "coreassembly.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1563163064,
+  "expire_in": 504576000,
+  "prev": "0e8452157e47b0885fd5328ab720f37884ee279a945b49f91407e71b177ddb72",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwmTyIMdnk+aFVAg24q50bsRFTYNV94+jAeqL/OjjnlkKp3BheWxvYWTESpcCHcQgDoRSFX5HsIhf1TKKtyDzeITuJ5qUW0n5FAfnGxd923LEIFb/It7GkW2ipEO2il95FZ+Xe2qgOWf3YjWUo064iYH+AgHCo3NpZ8RAONiqAxIZHayhaomxais/A97m4Ngl9u8CFsjOGVZQP75WfV8p9qDc3+UrDQSs5k2gFg8evIyJ7XBLIqRJ3YT3DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPAwX8OPLWqvKxEY1VUjzcLUFbeTOU/S2T+iArv6gTAco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nukemandan
+
+==================================================================
