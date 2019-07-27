@@ -6,7 +6,7 @@
     "develop": "gridsome develop",
     "explore": "gridsome explore",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -o deploy -d dist"
+    "deploy": "gh-pages -r git@github.com:core-assembly/core-assembly.github.io.git -b master -d dist"
   },
   "browserslist": [
     "last 4 versions",
